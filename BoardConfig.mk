@@ -9,7 +9,6 @@ DEVICE_PATH := device/xiaomi/fog
 # PBRP specific build flags
 PB_DISABLE_DEFAULT_DM_VERITY := true
 PB_TORCH_PATH := "/sys/class/leds/flashlight"
-# MAINTAINER := "Romeo13card @Romeo_13card" # Example, keep it short
 
 # Architecture
 TARGET_ARCH := arm64
