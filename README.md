@@ -1,1 +1,3 @@
-## Device config for TWRP Redmi 10C ( fog )
+PBRP Device Tree for Redmi 10C
+(Fog,Rain,Wind) MIUI 13
+===========================================
