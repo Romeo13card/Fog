@@ -8,7 +8,7 @@ DEVICE_PATH := device/xiaomi/fog
 
 # PBRP specific build flags
 PB_DISABLE_DEFAULT_DM_VERITY := true
-PB_TORCH_PATH := "/sys/class/leds/flashlight"
+PB_TORCH_PATH := "/sys/class/leds/led:torch/brightness"
 
 # Architecture
 TARGET_ARCH := arm64
